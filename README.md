@@ -14,7 +14,7 @@ For decades, business technology was only for companies that could pay for serve
 
 | Years | Role | Company |
 | --- | --- | --- |
-| 2007 – present | Founder & Principal Consultant | InBest Group, LLC — Miami |
+| 2007 – present | Founder & Principal Consultant | Alces Investment Group, LLC — Miami |
 | 2000 – 2007 | Senior Software Engineer / Team Lead (7 developers) | Kemper → Broadspire / Aetna — Plantation, FL |
 | 1988 – 2000 | Founder & Software Developer | CSA Computer Consultant — Colombia |
 | 1986 – 1988 | Systems Analyst & Project Manager | Transfers Courier — Miami |
@@ -30,6 +30,7 @@ Python · Flask · SQL Server · Oracle · MySQL · SQLite · Access · .NET (C#
 
 ### Contact
 
-📧 oalvarez36@hotmail.com
+📧 oalvarez36@hotmail.com · 🔗 [LinkedIn]
+    (https://www.linkedin.com/in/oscalvi/)
 
 *Off the keyboard I'm a head soccer coach at Somerset Academy, Pembroke Pines.*
