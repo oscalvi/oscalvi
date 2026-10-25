@@ -30,7 +30,6 @@ Python · Flask · SQL Server · Oracle · MySQL · SQLite · Access · .NET (C#
 
 ### Contact
 
-📧 oalvarez36@hotmail.com · 🔗 [LinkedIn]
-    (https://www.linkedin.com/in/oscalvi/)
+   📧 oalvarez36@hotmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/oscalvi/)
 
 *Off the keyboard I'm a head soccer coach at Somerset Academy, Pembroke Pines.*
